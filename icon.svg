@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+<rect width="192" height="192" rx="44" fill="#8be7fc"/>
+<circle cx="149" cy="43" r="25" fill="#fff0ab"/>
+<path d="M-10 134 Q48 116 74 142 Q124 118 202 147 V194 H-10Z" fill="#77d4a1"/>
+<path d="M18 150 Q63 96 112 139 Q143 162 178 122" fill="none" stroke="#9e441c" stroke-width="27" stroke-linecap="round"/>
+<path d="M18 150 Q63 96 112 139 Q143 162 178 122" fill="none" stroke="#ff923e" stroke-width="20" stroke-linecap="round"/>
+<path d="M18 150 Q63 96 112 139 Q143 162 178 122" fill="none" stroke="#ffe59b" stroke-width="2.5" stroke-dasharray="12 9" stroke-linecap="round"/>
+<g transform="translate(70 105) scale(1.17)"><path d="M-30 2 L-21 -10 L-9 -12 L-1 -22 Q12 -26 18 -10 L30 -5 Q36 -2 33 11 H-34 Z" fill="#ff5946" stroke="#173952" stroke-width="3"/><path d="M-5 -20 Q5 -22 13 -11 H-13Z" fill="#a6ecff" stroke="#173952" stroke-width="2"/><circle cx="-20" cy="11" r="8.5" fill="#243754"/><circle cx="-20" cy="11" r="4" fill="#e4fbff"/><circle cx="21" cy="11" r="8.5" fill="#243754"/><circle cx="21" cy="11" r="4" fill="#e4fbff"/></g>
+<text x="143" y="99" fill="#19435e" font-family="Arial Rounded MT Bold, sans-serif" font-size="42" font-weight="900" text-anchor="middle">Bê!</text>
+</svg>
