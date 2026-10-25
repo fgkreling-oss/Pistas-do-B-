@@ -1,20 +1,13 @@
 {
-  "name": "Pistas do Bê!",
+  "name": "Pistas do Bê! — Superpistas",
   "short_name": "Pistas do Bê",
-  "description": "Monte pistas, escolha carrinhos e brinque em cinco aventuras.",
+  "description": "Monte superpistas com loopings, saltos, pontes, túneis e desafios divertidos.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#dff8fb",
-  "theme_color": "#dff8fb",
   "orientation": "portrait",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
+  "theme_color": "#e9f8ff",
+  "background_color": "#e9f8ff",
+  "icons": [{"src": "icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose":"any"}]
 }
