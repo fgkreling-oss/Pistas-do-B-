@@ -1,23 +1,27 @@
-# Pistas do Bê! 🚗🦖🐉
+# 🚗 Pistas do Bê — Superpistas 2.0
 
-Joguinho infantil em 2D criado para o Bernardo, com 5 fases, 5 carrinhos e pistas de encaixar.
+Jogo educativo para crianças pequenas, feito com carinho para o Bernardo.
 
-## Como brincar
-1. Escolha um carrinho.
-2. Encaixe as peças da pista tocando ou arrastando.
-3. Aperte **VAMOS!** para ver o carro correr.
-4. Se a pista não funcionar, tente de novo ou use a **Ajudinha**.
+## Como jogar
 
-## Jogar
-Após a publicação no GitHub Pages, o endereço será:
+- Escolha um dos **cinco carrinhos**.
+- Veja o caminho da pista e os **encaixes brilhantes**, que revelam qual peça combina com cada trecho.
+- Toque numa peça e depois no encaixe correspondente, ou **arraste a peça com o dedo**. Também pode tocar duas vezes na mesma peça para encaixar automaticamente, útil para crianças menores.
+- Aperte **🏁 VAMOS!** para ver o carrinho percorrer a pista, incluindo loopings, descidas e saltos.
+- Se uma peça faltar, o carrinho para e mostra qual trecho falta; basta tentar de novo.
+- Use a **Ajudinha** se necessário. Não há tempo limite, anúncios, conta ou compras.
+
+## Cinco aventuras
+
+1. A superdescida — descida radical + looping.
+2. Pulo sobre o rio — rampa + túnel.
+3. Cuidado, Dino! — looping + rampa para escapar do dinossauro.
+4. O dragão Foguinho — ponte sobre o perigo + túnel protetor.
+5. Mega superpista — looping, ponte, salto e túnel.
+
+## Acesso
+
+Publicado pelo GitHub Pages (Configurações → Pages). Link esperado:
 https://fgkreling-oss.github.io/Pistas-do-B-/
 
-## Como foi construído
-HTML, CSS e JavaScript sem serviços externos, anúncios, login ou coleta de dados.
-O progresso das fases fica salvo apenas no navegador.
-
-## Publicação
-A pasta raiz contém o index.html. O workflow .github/workflows/pages.yml publica o conteúdo no GitHub Pages automaticamente quando houver alterações na branch main (desde que o GitHub Pages esteja autorizado nas configurações do repositório).
-
-## Responsáveis
-Projeto familiar independente, sem vínculo comercial com marcas de brinquedos.
+A aplicação é inteiramente estática (HTML + CSS + JS + SVG), sem dependências externas. O progresso fica salvo apenas no navegador.
